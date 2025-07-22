@@ -4,7 +4,7 @@
 
 # ¡Hola! 👋 Soy Jorge Daniel Cataldo
 
-Soy un **Fullstack Developer** apasionado y comprometido con la creación de soluciones de software eficientes y escalables. Mi especialización abarca tecnologías clave como **PHP, JavaScript, Node.js y React.js**, complementada con una sólida experiencia en **Testing QA**. Siempre estoy en la búsqueda de nuevos desafíos y oportunidades para aplicar mis habilidades y seguir aprendiendo en un entorno colaborativo.
+Soy un **Fullstack Developer** apasionado y comprometido con la creación de soluciones de software eficientes y escalables. Mi especialización abarca tecnologías clave como **PHP, JavaScript, Node.js y React.js**, complementada con experiencia en **Testing QA**. Siempre estoy en la búsqueda de nuevos desafíos y oportunidades para aplicar mis habilidades y seguir aprendiendo en un entorno colaborativo.
 
 ---
 
